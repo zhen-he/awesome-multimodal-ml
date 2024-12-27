@@ -14,53 +14,59 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 
 ## Table of Contents
 
-* [Survey Papers](#survey-papers)
-* [Core Areas](#core-areas)
-  * [Multimodal Representations](#multimodal-representations)
-  * [Multimodal Fusion](#multimodal-fusion)
-  * [Multimodal Alignment](#multimodal-alignment)
-  * [Multimodal Pretraining](#multimodal-pretraining)
-  * [Multimodal Translation](#multimodal-translation)
-  * [Crossmodal Retrieval](#crossmodal-retrieval)
-  * [Multimodal Co-learning](#multimodal-colearning)
-  * [Missing or Imperfect Modalities](#missing-or-imperfect-modalities)
-  * [Analysis of Multimodal Models](#analysis-of-multimodal-models)
-  * [Knowledge Graphs and Knowledge Bases](#knowledge-graphs-and-knowledge-bases)
-  * [Intepretable Learning](#intepretable-learning)
-  * [Generative Learning](#generative-learning)
-  * [Semi-supervised Learning](#semi-supervised-learning)
-  * [Self-supervised Learning](#self-supervised-learning)
-  * [Language Models](#language-models)
-  * [Adversarial Attacks](#adversarial-attacks)
-  * [Few-Shot Learning](#few-shot-learning)
-  * [Bias and Fairness](#bias-and-fairness)
-  * [Human in the Loop Learning](#human-in-the-loop-learning)
-* [Architectures](#architectures)
-  * [Multimodal Transformers](#multimodal-transformers)
-  * [Multimodal Memory](#multimodal-memory)
-* [Applications and Datasets](#applications-and-datasets)
-  * [Language and Visual QA](#language-and-visual-qa)
-  * [Language Grounding in Vision](#language-grounding-in-vision)
-  * [Language Grouding in Navigation](#language-grouding-in-navigation)
-  * [Multimodal Machine Translation](#multimodal-machine-translation)
-  * [Multi-agent Communication](#multi-agent-communication)
-  * [Commonsense Reasoning](#commonsense-reasoning)
-  * [Multimodal Reinforcement Learning](#multimodal-reinforcement-learning)
-  * [Multimodal Dialog](#multimodal-dialog)
-  * [Language and Audio](#language-and-audio)
-  * [Audio and Visual](#audio-and-visual)
-  * [Visual, IMU and Wireless](#visual-imu-and-wireless)
-  * [Media Description](#media-description)
-  * [Video Generation from Text](#video-generation-from-text)
-  * [Affect Recognition and Multimodal Language](#affect-recognition-and-multimodal-language)
-  * [Healthcare](#healthcare)
-  * [Robotics](#robotics)
-  * [Autonomous Driving](#Autonomous-Driving)
-  * [Finance](#Finance)
-  * [Human AI Interaction](#Human-AI-Interaction)
-* [Workshops](#workshops)
-* [Tutorials](#tutorials)
-* [Courses](#courses)
+- [Awesome Multimodal Machine Learning](#awesome-multimodal-machine-learning)
+  - [Course content + workshops](#course-content--workshops)
+  - [Table of Contents](#table-of-contents)
+- [Research Papers](#research-papers)
+  - [Survey Papers](#survey-papers)
+  - [Core Areas](#core-areas)
+    - [Multimodal Representations](#multimodal-representations)
+    - [Multimodal Fusion](#multimodal-fusion)
+    - [Multimodal Alignment](#multimodal-alignment)
+    - [Multimodal Pretraining](#multimodal-pretraining)
+    - [Multimodal Translation](#multimodal-translation)
+    - [Crossmodal Retrieval](#crossmodal-retrieval)
+    - [Multimodal Co-learning](#multimodal-co-learning)
+    - [Missing or Imperfect Modalities](#missing-or-imperfect-modalities)
+    - [Analysis of Multimodal Models](#analysis-of-multimodal-models)
+    - [Knowledge Graphs and Knowledge Bases](#knowledge-graphs-and-knowledge-bases)
+    - [Intepretable Learning](#intepretable-learning)
+    - [Generative Learning](#generative-learning)
+    - [Semi-supervised Learning](#semi-supervised-learning)
+    - [Self-supervised Learning](#self-supervised-learning)
+    - [Language Models](#language-models)
+    - [Adversarial Attacks](#adversarial-attacks)
+    - [Few-Shot Learning](#few-shot-learning)
+    - [Bias and Fairness](#bias-and-fairness)
+    - [Human in the Loop Learning](#human-in-the-loop-learning)
+  - [Architectures](#architectures)
+    - [Multimodal Transformers](#multimodal-transformers)
+    - [Multimodal Memory](#multimodal-memory)
+  - [Applications and Datasets](#applications-and-datasets)
+    - [Language and Visual QA](#language-and-visual-qa)
+    - [Language Grounding in Vision](#language-grounding-in-vision)
+    - [Language Grouding in Navigation](#language-grouding-in-navigation)
+    - [Multimodal Machine Translation](#multimodal-machine-translation)
+    - [Multi-agent Communication](#multi-agent-communication)
+    - [Commonsense Reasoning](#commonsense-reasoning)
+    - [Multimodal Reinforcement Learning](#multimodal-reinforcement-learning)
+    - [Multimodal Dialog](#multimodal-dialog)
+    - [Language and Audio](#language-and-audio)
+    - [Audio and Visual](#audio-and-visual)
+    - [Visual, IMU and Wireless](#visual-imu-and-wireless)
+    - [Media Description](#media-description)
+    - [Video Generation from Text](#video-generation-from-text)
+    - [Affect Recognition and Multimodal Language](#affect-recognition-and-multimodal-language)
+    - [Healthcare](#healthcare)
+    - [Bioinformatics](#bioinformatics)
+    - [Robotics](#robotics)
+    - [Autonomous Driving](#autonomous-driving)
+    - [Finance](#finance)
+    - [Human AI Interaction](#human-ai-interaction)
+    - [Multimodal Content Generation](#multimodal-content-generation)
+- [Workshops](#workshops)
+- [Tutorials](#tutorials)
+- [Courses](#courses)
 
 
 # Research Papers
@@ -926,6 +932,28 @@ Public course content and lecture videos from [11-777 Multimodal Machine Learnin
 [Dyadic Behavior Analysis in Depression Severity Assessment Interviews](https://dl.acm.org/citation.cfm?doid=2663204.2663238), ICMI 2014
 
 [Audiovisual Behavior Descriptors for Depression Assessment](https://dl.acm.org/citation.cfm?doid=2522848.2522886), ICMI 2013
+
+### Bioinformatics
+
+[Mosaic integration and knowledge transfer of single-cell multimodal data with MIDAS](https://www.nature.com/articles/s41587-023-02040-y), Nature Biotechnology 2024
+
+[Modal-nexus auto-encoder for multi-modality cellular data integration and imputation](https://www.nature.com/articles/s41467-024-53355-6), Nature Communications 2024
+
+[MultiVI: deep generative model for the integration of multimodal data](https://www.nature.com/articles/s41592-023-01909-9), Nature Methods 2023
+
+[scMoMaT jointly performs single cell mosaic integration and multi-modal bio-marker detection](https://www.nature.com/articles/s41467-023-36066-2), Nature Communications 2023
+
+[Multi-omics single-cell data integration and regulatory inference with graph-linked embedding](https://www.nature.com/articles/s41587-022-01284-4), Nature Biotechnology 2022
+
+[A multi-use deep learning method for CITE-seq and single-cell RNA-seq data integration with cell surface protein prediction and imputation](https://www.nature.com/articles/s42256-022-00545-w), Nature Machine Intelligence 2022
+
+[A unified computational framework for single-cell data integration with optimal transport](https://www.nature.com/articles/s41467-022-35094-8), Nature Communications 2022
+
+[Cross-Linked Unified Embedding for cross-modality representation learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/662b1774ba8845fc1fa3d1fc0177ceeb-Abstract-Conference.html), NeurIPS 2022
+
+[Integrated analysis of multimodal single-cell data](https://doi.org/10.1016/j.cell.2021.04.048), Cell 2021
+
+[Joint probabilistic modeling of single-cell multi-omic data with totalVI](https://www.nature.com/articles/s41592-020-01050-x), Nature Methods 2021
 
 ### Robotics
 
